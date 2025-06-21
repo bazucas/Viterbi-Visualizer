@@ -1,7 +1,5 @@
 ﻿# Viterbi Visualizer GUI App
 
-![App Screenshot](vit.png)
-
 A user-friendly desktop application for exploring and visualizing the Viterbi algorithm for Hidden Markov Models (HMMs), with support for Laplace smoothing.
 
 🔍 **What’s This Project?**
@@ -12,6 +10,8 @@ This lightweight GUI lets you:
 - **Enter sentences** to be tagged by part-of-speech (POS) tags.
 - **Visualize the Viterbi probability table**, with each state colour-coded and the most probable path highlighted.
 - **Inspect a step-by-step explanation** of start, transition, and emission probabilities leading to the final tag sequence.
+
+![App Screenshot](vit.png)
 
 📚 **What Is the Viterbi Algorithm?**
 The Viterbi algorithm computes the most likely sequence of hidden states (e.g., POS tags) given an observed sequence (e.g., words) under a Hidden Markov Model. It’s widely used in natural language processing, speech recognition, and bioinformatics to decode the underlying state sequence efficiently.
