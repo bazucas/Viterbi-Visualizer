@@ -37,7 +37,7 @@ A standalone executable is provided in the `dist` directory. Simply run the exec
 
 ```bash
 # Windows example
-./dist/ViterbiVisualizer.exe
+./dist/viter_1.exe
 ```
 
 🛠️ **Requirements & Installation**
