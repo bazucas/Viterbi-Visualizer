@@ -42,12 +42,6 @@ A standalone executable is provided in the `dist` directory. Simply run the exec
 
 🛠️ **Requirements & Installation**
 
-1. Clone the repository:
-
-   ```bash
-
-   ```
-
 git clone <repo-url>
 cd <repo-directory>
 
@@ -59,19 +53,6 @@ source venv/bin/activate  # macOS/Linux
 venv\Scripts\activate     # Windows
 ````
 
-3. Install dependencies:
-
-   ```bash
-
-   ```
-
-pip install -r requirements.txt
-
-````
-4. Run the GUI:
-   ```bash
-python main.py
-````
 
 📄 **License**
 
